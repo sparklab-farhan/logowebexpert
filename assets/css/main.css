@@ -17053,13 +17053,47 @@ label {
 }
 
 .clcl{
-  background: url(../img/model.jpg)
+  background: url(../img/Landingpage_3F5.png)
 }
 
 .mrtp{
   margin-bottom: 110%;
 }
 
+.wclr{
+  color: white !important;
+}
 
+.adjtxsz{
+  font-size: 5rem !important;
+}
+
+
+.uladj{
+  margin-left: 10%;
+  font-size: 2rem;
+}
+
+.uladj li{
+  padding: 2%;
+}
+
+.pddtb {
+  padding-top: 5% !important;
+  padding-bottom: 5% !important;
+}
+
+.shpadj{
+  position: absolute;
+  margin-left: 32%;
+  margin-top: -8%;
+  border-top-left-radius: 5rem;
+  border-top-right-radius: 5rem;
+  opacity: 0.7;
+}
+
+.zh{
+  z-index: 999;
+}
 
 /*# sourceMappingURL=main.css.map */
